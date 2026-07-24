@@ -1,0 +1,47 @@
+Drug,Region,Year,PooledResistancePct,TotalTested,TotalResistant,NCountriesReporting
+Imipenem,African Region,2020,72.88,4772,3478,4
+Meropenem,African Region,2020,73.72,5195,3830,4
+Imipenem,African Region,2021,80.45,5211,4192,7
+Meropenem,African Region,2021,80.30,5339,4287,8
+Imipenem,African Region,2022,69.52,5913,4111,7
+Meropenem,African Region,2022,69.53,6196,4308,9
+Imipenem,African Region,2023,70.09,6619,4639,11
+Meropenem,African Region,2023,69.51,7036,4891,13
+Imipenem,Eastern Mediterranean Region,2020,74.57,1817,1355,16
+Meropenem,Eastern Mediterranean Region,2020,78.43,1776,1393,15
+Imipenem,Eastern Mediterranean Region,2021,71.72,3366,2414,13
+Meropenem,Eastern Mediterranean Region,2021,70.46,3423,2412,11
+Imipenem,Eastern Mediterranean Region,2022,66.13,5232,3460,16
+Meropenem,Eastern Mediterranean Region,2022,64.82,5114,3315,16
+Imipenem,Eastern Mediterranean Region,2023,69.39,5025,3487,15
+Meropenem,Eastern Mediterranean Region,2023,69.37,5074,3520,15
+Imipenem,European Region,2020,60.88,5818,3542,23
+Meropenem,European Region,2020,57.61,7704,4438,27
+Imipenem,European Region,2021,76.86,11666,8967,26
+Meropenem,European Region,2021,71.24,13733,9784,29
+Imipenem,European Region,2022,71.50,10478,7492,27
+Meropenem,European Region,2022,64.25,12455,8002,28
+Imipenem,European Region,2023,79.53,9138,7267,26
+Meropenem,European Region,2023,59.90,9388,5623,27
+Imipenem,Region of the Americas,2020,83.66,973,814,3
+Meropenem,Region of the Americas,2020,83.78,974,816,3
+Imipenem,Region of the Americas,2021,60.25,2380,1434,4
+Meropenem,Region of the Americas,2021,52.33,2830,1481,4
+Imipenem,Region of the Americas,2022,45.44,1754,797,4
+Meropenem,Region of the Americas,2022,37.74,2234,843,4
+Imipenem,Region of the Americas,2023,40.29,1911,770,4
+Meropenem,Region of the Americas,2023,34.92,2414,843,5
+Imipenem,South-East Asia Region,2020,67.91,2664,1809,6
+Meropenem,South-East Asia Region,2020,67.27,2838,1909,6
+Imipenem,South-East Asia Region,2022,64.47,9849,6350,7
+Meropenem,South-East Asia Region,2022,64.00,7666,4906,6
+Imipenem,South-East Asia Region,2023,69.68,13264,9242,9
+Meropenem,South-East Asia Region,2023,66.02,12253,8090,9
+Imipenem,Western Pacific Region,2020,31.78,4157,1321,6
+Meropenem,Western Pacific Region,2020,30.40,4950,1505,8
+Imipenem,Western Pacific Region,2021,42.86,5921,2538,8
+Meropenem,Western Pacific Region,2021,42.40,6144,2605,8
+Imipenem,Western Pacific Region,2022,30.47,3489,1063,8
+Meropenem,Western Pacific Region,2022,29.09,3998,1163,9
+Imipenem,Western Pacific Region,2023,38.25,6583,2518,8
+Meropenem,Western Pacific Region,2023,35.85,7266,2605,10
